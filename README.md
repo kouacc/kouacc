@@ -7,7 +7,7 @@ I work on some fan-translations for games, and does some stuff for [WiiLink](htt
 [![kouacc's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouacc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools & Techs I know and use
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,astro,alpinejs,tailwind,wordpress,git,postgres,npm,netlify,express,figma,ps,ai&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,nodejs,vue,astro,alpinejs,tailwind,wordpress,git,postgres,npm,netlify,express,vscode,postman,docker,figma,ps,ai&theme=light)](https://skillicons.dev)
 
 ## I'm currently learning
 [![My Skills](https://skillicons.dev/icons?i=go,swift,react&theme=light)](https://skillicons.dev)
