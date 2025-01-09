@@ -4,8 +4,6 @@ I'm **kouacc**, a 19yo french student at MMI Montbéliard doing some frontend & 
 
 I work on some fan-translations for games, and does some stuff for [WiiLink](https://github.com/WiiLink24).
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001663.d77a8d4cc35348f7927a5dba97748d06.2046)](https://github.com/rayriffy/apple-music-github-profile)
-
 ## Tools & Techs I know and use
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,nodejs,vue,astro,alpinejs,tailwind,wordpress,git,postgres,npm,netlify,express,vscode,postman,docker,figma,ps,ai&theme=light)](https://skillicons.dev)
 
